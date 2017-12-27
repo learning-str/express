@@ -1,3 +1,5 @@
+### https://raw.github.com/github/gitignore/ade08baee2cf60afd794432b3e779fe5844c545d/Node.gitignore
+
 # Logs
 logs
 *.log
@@ -29,7 +31,7 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
-# Compiled binary addons (http://nodejs.org/api/addons.html)
+# Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
 # Dependency directories
@@ -56,4 +58,12 @@ typings/
 
 # dotenv environment variables file
 .env
+
+
+
+### https://raw.github.com/github/gitignore/ade08baee2cf60afd794432b3e779fe5844c545d/Custom.gitignore
+
+
+build/
+
 
